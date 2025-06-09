@@ -1,5 +1,5 @@
 # 【WGCF】连接CF WARP为服务器添加IPv4/IPv6网络
-
+alpine系统先运行apk add bash
 * * *
 
 # 目录
