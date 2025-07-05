@@ -258,7 +258,7 @@
 
 <img src="https://user-images.githubusercontent.com/62703343/144635014-4c027645-0e09-4b84-8b78-88b41f950627.png" width="80%" />
 
-## alpine系统先运行apk add bash
+## alpine系统先运行apk add bash与apk add wget
 ## warp 运行脚本
 
 首次运行
